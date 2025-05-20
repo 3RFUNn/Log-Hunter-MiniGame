@@ -1,2 +1,2 @@
-# Assignement-1-B-AGD
+# Log Hunter Mini Game
  
